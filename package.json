@@ -1,11 +1,12 @@
 {
   "scripts": {
-"build:css" : "tailwind build src/tailwind.css -o dist/style.css"
-
+    "build:css": "tailwind build src/tailwind.css -o dist/style.css"
   },
   "dependencies": {
     "autoprefixer": "^9.5.1",
-    "tailwindcss": "^1.4.6"
+    "nano": "^8.2.2",
+    "tailwindcss": "^1.4.6",
+    "vue": "^2.6.11"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^1.2.0",
