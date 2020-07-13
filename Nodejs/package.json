@@ -1,0 +1,12 @@
+{
+  "name": "nosrecettes",
+  "version": "0.0.1",
+  "description": "App de recettes et des stocks",
+  "main": "Index.js",
+  "scripts": {
+  "start" "index.js"
+  
+  },
+  "author": "DSETDA",
+  "license": "ISC"
+}
